@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# Configuración IDE
+.vscode/
+.idea/
+
+# Datos locales (si luego exportamos csv o parquet)
+data/
+*.csv
+*.parquet
+
+# Docker volumes (si los listáramos)
+docker/pgdata/
