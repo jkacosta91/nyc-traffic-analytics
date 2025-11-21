@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Projects/accidentes_madrid/mlruns/305189538145182667/models/m-a465be394d694a0e8b86a956078e9582/artifacts
+creation_timestamp: 1763723607216
+experiment_id: '305189538145182667'
+last_updated_timestamp: 1763723611871
+model_id: m-a465be394d694a0e8b86a956078e9582
+model_type: null
+name: model
+source_run_id: d5d8e13089cc4546a7b9088483fd5c91
+status: 2
+status_message: null

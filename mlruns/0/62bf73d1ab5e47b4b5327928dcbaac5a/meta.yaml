@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/accidentes_madrid/mlruns/0/62bf73d1ab5e47b4b5327928dcbaac5a/artifacts
+end_time: 1763724875728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62bf73d1ab5e47b4b5327928dcbaac5a
+run_name: skillful-lamb-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763724870846
+status: 3
+tags: []
+user_id: jkaco

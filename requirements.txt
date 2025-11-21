@@ -1,3 +1,11 @@
-requests
+fastapi
+uvicorn
+pydantic
 pandas
-python-dotenv
+scikit-learn
+joblib
+mlflow
+sqlalchemy
+psycopg2-binary
+numpy
+pyarrow

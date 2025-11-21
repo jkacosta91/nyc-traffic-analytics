@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/accidentes_madrid/mlruns/305189538145182667/d5d8e13089cc4546a7b9088483fd5c91/artifacts
+end_time: 1763723611924
+entry_point_name: ''
+experiment_id: '305189538145182667'
+lifecycle_stage: active
+run_id: d5d8e13089cc4546a7b9088483fd5c91
+run_name: resilient-turtle-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723606756
+status: 3
+tags: []
+user_id: jkaco

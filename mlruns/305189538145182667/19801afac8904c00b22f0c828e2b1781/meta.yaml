@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/accidentes_madrid/mlruns/305189538145182667/19801afac8904c00b22f0c828e2b1781/artifacts
+end_time: 1763723546680
+entry_point_name: ''
+experiment_id: '305189538145182667'
+lifecycle_stage: active
+run_id: 19801afac8904c00b22f0c828e2b1781
+run_name: handsome-swan-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763723540393
+status: 4
+tags: []
+user_id: jkaco

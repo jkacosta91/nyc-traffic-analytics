@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Projects/accidentes_madrid/mlruns/0/models/m-67325ab7048b4c7db8894c2e696820df/artifacts
+creation_timestamp: 1763722896538
+experiment_id: '0'
+last_updated_timestamp: 1763722902400
+model_id: m-67325ab7048b4c7db8894c2e696820df
+model_type: null
+name: nyc_rf_model
+source_run_id: bbbe811c1e4d4bc8be1d6285397ff17a
+status: 2
+status_message: null
